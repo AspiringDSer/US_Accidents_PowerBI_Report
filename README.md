@@ -19,7 +19,7 @@ With the increasing importance of data cleaning and analysis, I aim to demonstra
 
 # About the Project <a name='About-the-Project'></a>
 
-![](obsidian://open?vault=Obsidian&file=US%20Accidents%20-%20Pic%201.png)
+![US Accidents - Pic 1](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/beb8cacf-5076-48be-8d43-c7643a479e66)
   Note: The Power BI (.pbix) file has been uploaded to the repository. Feel free to download it to explore the interactive features, including slicers and animations.
 
 # The README is currently under construction 
