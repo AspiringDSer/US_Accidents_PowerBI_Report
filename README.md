@@ -20,7 +20,12 @@ With the increasing importance of data cleaning and analysis, I aim to demonstra
 # About the Project <a name='About-the-Project'></a>
 
 ![US Accidents - Pic 1](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/beb8cacf-5076-48be-8d43-c7643a479e66)
-  Note: The Power BI (.pbix) file has been uploaded to the repository. Feel free to download it to explore the interactive features, including slicers and animations.
+
+![US Accidents - Pic 2](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/dd0a880b-81e5-41a0-b8ce-89d002811481)
+
+![US Accidents - Pic 3](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/489091b0-46c9-44e6-8e95-60369d87563d)
+
+  Recruiters, please feel free to email me at jzqmah@gmail.com or message me on LinkedIn if you need the PowerBI (.pbix) file or would like to request a live walkthrough.. Note that GitHub has a file size limit of 100 MB.
 
 # The README is currently under construction 
 
