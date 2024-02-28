@@ -25,7 +25,7 @@ With the increasing importance of data cleaning and analysis, I aim to demonstra
 
 ![US Accidents - Pic 3](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/489091b0-46c9-44e6-8e95-60369d87563d)
 
-  Recruiters, please feel free to email me at jzqmah@gmail.com or message me on LinkedIn if you need the PowerBI (.pbix) file or would like to request a live walkthrough.. Note that GitHub has a file size limit of 100 MB.
+  Recruiters, please feel free to email me at jzqmah@gmail.com or message me on LinkedIn if you need the PowerBI (.pbix) file or would like to request a live walkthrough. Note that GitHub has a file size limit of 100 MB.
 
 # The README is currently under construction 
 
