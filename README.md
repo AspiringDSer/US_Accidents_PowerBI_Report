@@ -1,7 +1,6 @@
 # US Accidents - PowerBI Report
 
 # Preface 
-This README documents about the project. I also have experience in created Tableau Dashboards [COVID19 Tableau Dashboard](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard) 
 
 This README document provides an overview of the **US Accidents PowerBI report**, detailing its objectives, methodologies, and key findings. The project aims to [briefly describe the project's goals]. It leverages Tableau to create interactive visualizations that [describe what the visualizations aim to achieve or demonstrate].
     
