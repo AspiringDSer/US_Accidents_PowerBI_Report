@@ -49,11 +49,28 @@ I have utilized **dimensional modeling** to structure the US Accidents dataset, 
 
 ## Screenshots 
 
+#### Power BI Features 
+The following screenshots showcase some of the unique features found in Power BI report.
+
+![US Accidents - Pic 4](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/b9eb5e7b-74ff-434e-948f-f70267a55ffd)
+
+When a specific year is selected, the card visual displays the percentage change versus the previous year, along with the positive or negative difference compared to the previous year.
+
+![US Accidents - Pic 5](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/3b8d4abe-83af-476d-9d7b-b71a685c4d62)
+
+The highest value is highlighted in green, while the lowest value is highlighted in pink. Each bar indicates the percentage of total accident cases it represents.
+
+![US Accidents - Pic 6](https://github.com/AspiringDSer/US_Accidents_PowerBI_Report/assets/79289892/db8cb1c6-8bb8-4c67-b960-84035e3c126d)
+
+The report includes numerous DAX measures. The one highlighted above is the `% of Traffic Accidents` measure.
+
 ## Insights
 
 This section will contain key insights and findings from the analysis of the US Accident dataset. 
 
 # Future Developments <a name='Future'></a>
 The US Accidents Power BI report is undergoing further refinement. I plan to continue development in the following areas:
-* `Data Modeling`: Develop a data model in PostgreSQL or MySQL database 
-* `Dimension Tables`: Add insights regarding Time of Day 
+* `Data Modeling` Develop a data model in PostgreSQL or MySQL database 
+* `Dimension Tables` Add insights regarding Time of Day
+* Map Analysis - Will perform a more advanced map analysis using Python Plotly 
+* Severity Prediction - Use ML to predict Accident Severity (Random Forest, Decision Trees, Logistic Regression, K-Nearest Neighbors etc)
